@@ -8,7 +8,7 @@ npm i devtool-console
 ```
 
 ![Demo1](https://raw.githubusercontent.com/jeffrequina/devConsole/main/devtool-console-img.png)
-![Demo2](https://raw.githubusercontent.com/jeffrequina/devConsole/main/devtool-console-img.png)
+![Demo2](https://raw.githubusercontent.com/jeffrequina/devConsole/main/devtool-console-img2.png)
 
 # Basic Usage
 ```jsx
